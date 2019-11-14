@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/papierknockoff/static/css/main.3fadf9ce.chunk.css",
+    "main.js": "/papierknockoff/static/js/main.6849d218.chunk.js",
+    "main.js.map": "/papierknockoff/static/js/main.6849d218.chunk.js.map",
+    "runtime-main.js": "/papierknockoff/static/js/runtime-main.6b7a2f10.js",
+    "runtime-main.js.map": "/papierknockoff/static/js/runtime-main.6b7a2f10.js.map",
+    "static/js/2.13c1e6d4.chunk.js": "/papierknockoff/static/js/2.13c1e6d4.chunk.js",
+    "static/js/2.13c1e6d4.chunk.js.map": "/papierknockoff/static/js/2.13c1e6d4.chunk.js.map",
+    "index.html": "/papierknockoff/index.html",
+    "precache-manifest.e6a2810bb5aea0e813090aaf5c5a0263.js": "/papierknockoff/precache-manifest.e6a2810bb5aea0e813090aaf5c5a0263.js",
+    "service-worker.js": "/papierknockoff/service-worker.js",
+    "static/css/main.3fadf9ce.chunk.css.map": "/papierknockoff/static/css/main.3fadf9ce.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b7a2f10.js",
+    "static/js/2.13c1e6d4.chunk.js",
+    "static/css/main.3fadf9ce.chunk.css",
+    "static/js/main.6849d218.chunk.js"
+  ]
+}
